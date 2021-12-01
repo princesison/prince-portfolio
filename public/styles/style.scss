@@ -1,0 +1,15 @@
+$primary-color: #2f86a6;
+$secondary-color: #34be82;
+$lime-color: #2fdd92;
+$yellow-color: #f2f013;
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import "global";
+@import "header";
